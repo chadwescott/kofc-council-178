@@ -32,6 +32,9 @@ MIT
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
 classlist.js
 Dedicated to the public domain
 This is free and unencumbered software released into the public domain.
